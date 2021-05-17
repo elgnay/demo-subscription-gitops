@@ -4,3 +4,4 @@ data:
 kind: ConfigMap
 metadata:
   name: db-config
+  namespace: default
